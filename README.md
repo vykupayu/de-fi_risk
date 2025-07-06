@@ -1,4 +1,6 @@
-This is a group project by @vykupayu and @Metolkin focused on building a DeFi risk engine using Python.
+This is a group project by @vykupayu and @Mykyta-Metolkin focused on building a DeFi risk engine using Python.
+
+The theoretical financial basis for the analysis is described in https://github.com/Mykyta-Metolkin/Asset-Management-For-DeFI
 
 This first version uses Bayesian regression combined with VaR and Sharpe ratio to assess stETH risk factors. 
 
