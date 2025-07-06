@@ -1,3 +1,5 @@
+This is a group project by @vykupayu and @Metolkin focused on building a DeFi risk engine using Python.
+
 This first version uses Bayesian regression combined with VaR and Sharpe ratio to assess stETH risk factors. 
 
 The PoC has been built in the R programming language using the Bayes_Risk.ipynb notebook. 
